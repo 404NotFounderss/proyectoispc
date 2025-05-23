@@ -10,6 +10,7 @@ Así, en este pergamino digital, declaramos nuestro propósito y juramos perseve
 ✨ Los Héroes del Consejo ✨
 
 ⚔️ Gabriel, el Caballero de la Voz Interior
+
 De las tierras donde florecen las ideas y las almas se descubren a sí mismas, surge Gabriel, caballero de noble porte y verbo encantador.
 Portador de la Espada de la Escucha Activa y el Escudo de la Comunicación Clara, Gabriel no solo domina el arte del habla, sino que penetra en los corazones con el poder de la comprensión profunda. Es investigador incansable, siempre al acecho del saber oculto entre libros, códigos y estrategias.
 Entrenado en las artes del coaching, guía a sus aliados hacia la auto-maestría, invocando el fuego sagrado del liderazgo personal. Su mente, afilada como su espada, danza sobre los tableros del ajedrez como un estratega sin igual.
