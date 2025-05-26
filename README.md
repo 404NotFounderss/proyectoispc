@@ -1,3 +1,46 @@
+# 🧪 BioInventory
+
+**Gestión Inteligente de Insumos y Reactivos de Laboratorio**
+
+---
+
+## 📌 Descripción del Proyecto
+
+**BioInventory** es una aplicación web diseñada para optimizar la gestión de insumos y reactivos en laboratorios, universidades, startups de biotecnología y empresas del sector agro-bio. El proyecto nace con el objetivo de resolver desafíos críticos relacionados con el seguimiento, disponibilidad y control del stock de materiales esenciales para el trabajo científico y técnico.
+
+---
+
+## 🎯 Objetivo
+
+Proporcionar una herramienta integral que permita a los usuarios tener una visión clara, precisa y automatizada del estado de su inventario, ayudando a prevenir vencimientos, faltantes de stock y desorganización en los pedidos.
+
+---
+
+## 🧰 Funcionalidades Iniciales
+
+- 📅 **Notificación de Vencimientos**: Alertas automáticas cuando un producto se aproxima a su fecha de caducidad.
+- 📉 **Alertas de Bajo Stock**: Sistema de notificación para reabastecimiento oportuno de insumos críticos.
+- 📦 **Seguimiento de Pedidos Pendientes**: Registro y control de pedidos en curso.
+- 🗃️ **Simulación de Base de Datos**: Organización eficiente del inventario en entornos simulados para pruebas o capacitación.
+- 📊 **Generación de Reportes**: Análisis detallado de consumo, movimientos y proyecciones del inventario.
+
+---
+
+## 👥 Usuarios Potenciales
+
+- Laboratorios universitarios  
+- Centros de investigación  
+
+---
+
+## 👨‍💻 Integrantes del Proyecto
+
+- **Joaquín Romero**
+
+---
+
+
+
 ✨✨✨Presentación del Consejo de 404NotFounders✨✨✨
 
 En los vastos dominios del código y los misterios digitales, se alza un valeroso grupo de artesanos de la lógica y guardianes del software, conocidos en todo el reino como 404NotFounders.
@@ -15,4 +58,8 @@ De las tierras donde florecen las ideas y las almas se descubren a sí mismas, s
 Portador de la Espada de la Escucha Activa y el Escudo de la Comunicación Clara, Gabriel no solo domina el arte del habla, sino que penetra en los corazones con el poder de la comprensión profunda. Es investigador incansable, siempre al acecho del saber oculto entre libros, códigos y estrategias.
 Entrenado en las artes del coaching, guía a sus aliados hacia la auto-maestría, invocando el fuego sagrado del liderazgo personal. Su mente, afilada como su espada, danza sobre los tableros del ajedrez como un estratega sin igual.
 Autodidacta por naturaleza, y apasionado devoto de la tecnología, Gabriel cabalga entre terminales y algoritmos, desafiando a las fuerzas del caos digital con una sonrisa serena y una voluntad de acero.
-¡Salve, Gabriel, noble arquitecto del alma y del código!
+¡Salve, Gabriel, noble arquitecto del alma y del código!.
+
+⚔️ Joaquín, el Forjador 
+
+Desde las forjas brillantes del reino digital, surge Joaquín, maestro del diseño funcional y defensor incansable de la experiencia del usuario. Porta con destreza el Martillo de React y el Yelmo de Next.js, herramientas con las que construye interfaces tan ágiles como elegantes. Con sus ropajes tejidos en Tailwind y su código forjado en TypeScript, recorre las rutas de la arquitectura moderna con la precisión de un alquimista del frontend.
