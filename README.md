@@ -37,6 +37,7 @@ Proporcionar una herramienta integral que permita a los usuarios tener una visi�
 ## 👨‍💻 Integrantes del Proyecto
 
 - **Joaquín Romero**
+- **Gabriel Natale**
 
 ---
 
