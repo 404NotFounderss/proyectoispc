@@ -1,10 +1,10 @@
 # 🧪 BioInventory
 
-**Gestión Inteligente de Insumos y Reactivos de Laboratorio**
+**Gestión Inteligente de insumos y reactivos de laboratorio**
 
 ---
 
-## 📌 Descripción del Proyecto
+## 📌 Descripción del proyecto
 
 **BioInventory** es una aplicación web diseñada para optimizar la gestión de insumos y reactivos en laboratorios, universidades, startups de biotecnología y empresas del sector agro-bio. El proyecto nace con el objetivo de resolver desafíos críticos relacionados con el seguimiento, disponibilidad y control del stock de materiales esenciales para el trabajo científico y técnico.
 
@@ -18,11 +18,12 @@ Proporcionar una herramienta integral que permita a los usuarios tener una visi�
 
 ## 🧰 Funcionalidades Iniciales
 
-- 📅 **Notificación de Vencimientos**: Alertas automáticas cuando un producto se aproxima a su fecha de caducidad.
+- 📉 **Inventario**: Registro y control de insumos.
 - 📉 **Alertas de Bajo Stock**: Sistema de notificación para reabastecimiento oportuno de insumos críticos.
 - 📦 **Seguimiento de Pedidos Pendientes**: Registro y control de pedidos en curso.
 - 🗃️ **Simulación de Base de Datos**: Organización eficiente del inventario en entornos simulados para pruebas o capacitación.
 - 📊 **Generación de Reportes**: Análisis detallado de consumo, movimientos y proyecciones del inventario.
+- 📅 **Notificación de Vencimientos**: Alertas automáticas cuando un producto se aproxima a su fecha de caducidad
 
 ---
 
