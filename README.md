@@ -39,7 +39,7 @@ Proporcionar una herramienta integral que permita a los usuarios tener una visi√
 - **Joaqu√≠n Romero**
 - **Gabriel Natale**
 - **Luis Ramello**
-- **Diego Farias88
+- **Diego Farias**
 ---
 
 
