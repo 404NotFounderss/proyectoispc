@@ -62,6 +62,11 @@ Entrenado en las artes del coaching, guía a sus aliados hacia la auto-maestría
 Autodidacta por naturaleza, y apasionado devoto de la tecnología, Gabriel cabalga entre terminales y algoritmos, desafiando a las fuerzas del caos digital con una sonrisa serena y una voluntad de acero.
 ¡Salve, Gabriel, noble arquitecto del alma y del código!.
 
+Luis 
+
+Comensando a aprender nuevamente, con experiencia en varias ramas, como alarmas, camaras de segurida, conocimientos en redes. 
+Ingresando en el mundo de la programacion y apliando conocimientos. 
+
 ⚔️ Joaquín, el Forjador 
 
 Desde las forjas brillantes del reino digital, surge Joaquín, maestro del diseño funcional y defensor incansable de la experiencia del usuario. Porta con destreza el Martillo de React y el Yelmo de Next.js, herramientas con las que construye interfaces tan ágiles como elegantes. Con sus ropajes tejidos en Tailwind y su código forjado en TypeScript, recorre las rutas de la arquitectura moderna con la precisión de un alquimista del frontend.
