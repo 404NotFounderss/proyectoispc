@@ -39,7 +39,7 @@ Proporcionar una herramienta integral que permita a los usuarios tener una visi�
 - **Joaquín Romero**
 - **Gabriel Natale**
 - **Luis Ramello**
----
+- **Diego Farias**
 
 
 
@@ -62,10 +62,11 @@ Entrenado en las artes del coaching, guía a sus aliados hacia la auto-maestría
 Autodidacta por naturaleza, y apasionado devoto de la tecnología, Gabriel cabalga entre terminales y algoritmos, desafiando a las fuerzas del caos digital con una sonrisa serena y una voluntad de acero.
 ¡Salve, Gabriel, noble arquitecto del alma y del código!.
 
-Luis 
+⚔️ Luis, el vigia de los circuitos
 
-Comensando a aprender nuevamente, con experiencia en varias ramas, como alarmas, camaras de segurida, conocimientos en redes. 
-Ingresando en el mundo de la programacion y apliando conocimientos. 
+Forjado en los antiguos oficios de la vigilancia y la protección. Domina los artefactos de alarma, las esferas de visión lejana —llamadas cámaras de seguridad— y las sendas invisibles de las redes.
+Ahora, con espíritu renovado y sed de sabiduría, ha emprendido su cruzada en las tierras del código.
+Se adentra en los dominios de la programación con coraje y determinación, decidido a expandir sus dominios y aportar su temple a la causa del Consejo.
 
 ⚔️ Joaquín, el Forjador 
 
