@@ -64,8 +64,8 @@ Autodidacta por naturaleza, y apasionado devoto de la tecnología, Gabriel cabal
 
 Luis 
 
-Comensando a aprender nuevamente, con experiencia en varias ramas, como alarmas, camaras de segurida, conocimientos en redes. 
-Ingresando en el mundo de la programacion y apliando conocimientos. 
+Comenzando a aprender nuevamente, con experiencia en varias ramas, como alarmas, camaras de seguridad, conocimientos en redes. 
+Ingresando en el mundo de la programacion y ampliando conocimientos. 
 
 ⚔️ Joaquín, el Forjador 
 
